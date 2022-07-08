@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @jian0209
 - 👀 I’m interested in learning more language and discover these kind of thing
 - 🌱 I’m currently learning c language, python, react-native, react-js, angular js, node js
-- 📫 How to reach me jian000209@gmail.com
--
+- 📫 How to reach me <jian000209@gmail.com>
 
-``` <Nicholas name="jian"  />
+``` 
+<Nicholas 
+  firstName="Tey" 
+  name="Jian"
+  email📫="jian000209@gmail.com"
+  :planning🌱="[linux, docker, nginx, grafana, ]"
+  :learning :fire: ="[c language, python, golang, java, nodejs]"
+  :skill="[golang, java, nodejs, react, vue]"
+/>
+```
 
 <!---
 jian0209/jian0209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
