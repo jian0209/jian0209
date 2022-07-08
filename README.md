@@ -5,12 +5,12 @@
 
 ``` 
 <Nicholas 
-  firstName="Tey" 
-  name="Jian"
-  email📫="jian000209@gmail.com"
-  :planning🌱="[linux, docker, nginx, grafana, ]"
-  :learning :fire: ="[c language, python, golang, java, nodejs]"
-  :skill="[golang, java, nodejs, react, vue]"
+  firstName   = "Tey" 
+  name        = "Jian"
+  email📫     = "jian000209@gmail.com"
+  :planning🌱 = "[linux, docker, nginx, grafana, ]"
+  :learning   = "[c language, python, golang, java, nodejs]"
+  :skill      = "[golang, java, nodejs, react, vue]"
 />
 ```
 
