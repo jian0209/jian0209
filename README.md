@@ -1,3 +1,18 @@
+# Greetings, Earthlings! 🌍 I'm Nicholas
+
+*------*  *--*  *------*  *-*  *-*  *------*  *--*      *------*  *------*
+ \      \  \  \  \  *---*  \ \  \ \  \ *--* \  \  \      \ *--* \  \      \
+  \ *--* \  \  \  \  \      \ *--* \  \ \  \ \  \  \      \ *--* \  \  *---*
+   \ \  \ \  \  \  \  \      \ *--* \  \ \  \ \  \  \      \ *--* \  *---*  \
+    \ \  \ \  \  \  \  *---*  \ \  \ \  \ *--* \  \  *---*  \ \  \ \  \      \
+     *-*  *-*  *--*  *------*  *-*  *-*  *------*  *------*  *-*  *-*  *------*
+
+Welcome to my digital dimension, where conventional logic meets the unexpected twists of creativity.
+
+"Here is the place where code meets romantic, and every commit tells a story."
+
+## 🚀 Mission Statement
+
 - 👋 Hi, I’m @jian0209
 - 👀 I’m interested in learning more language and discover these kind of thing
 
